@@ -25,6 +25,10 @@ Step2- Refer Library from your App.
 
 Step3 - Make an Object of PinLockDialog Class and show it anywhere you want to.
 
+For E.G.
+--- PinLockDialog mLockDialog = new PinLockDialog(CurrentClassContext, pininString, OnPinMatchMessage, onPinMismatchedMessage);
+		mLockDialog.show();
+
 #Customization
 To Change the Background of Lock, Just replace the dialog_bg.png from res/ to your's png.
 
