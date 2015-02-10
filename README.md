@@ -1,7 +1,7 @@
 # PinLockDialog
 This Library is to use as a app passcode protection implementation, which allows user to protect the app with a four digit code.
 
-![Alt text](https://github.com/AmniX/PinLockDialog/blob/master/image1/image1.png "Optional title")
+![Alt text](https://github.com/AmniX/PinLockDialog/blob/master/image1/image1.png "PinLockDialog")
 
 When you Implement it into your app, then user have to Enter four Digit Pin Code as Developer implemented it, for e.g.-
 onCreate
